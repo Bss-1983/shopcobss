@@ -1,4 +1,5 @@
-"use client";import React from "react";
+
+import React from "react";
 import { PiTrashFill } from "react-icons/pi";
 import Image from "next/image";
 import Link from "next/link";

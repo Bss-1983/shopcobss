@@ -1,4 +1,4 @@
-"use client";
+
 
 import { setSizeSelection } from "@/lib/features/products/productsSlice";
 import { useAppDispatch, useAppSelector } from "@/lib/hooks/redux";
