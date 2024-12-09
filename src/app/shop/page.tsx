@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import BreadcrumbShop from "@/components/shop-page/BreadcrumbShop";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
